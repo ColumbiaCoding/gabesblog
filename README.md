@@ -42,6 +42,8 @@ The purpose is for writer about tech that want to contribute to a CMS-style blog
 
 <img src="https://img.shields.io/badge/Built%20with-bcrypt-blue">
 
+<img src="https://img.shields.io/badge/Built%20with-handlebars-blue">
+
 
 
 ## License
