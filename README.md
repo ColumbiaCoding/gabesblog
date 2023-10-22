@@ -1,4 +1,4 @@
-# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+# Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Table of Contents
 
@@ -13,18 +13,15 @@
 
 ## Description
 
-This application is to built to support the back end for an e-commerce site. We will be working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+This application is to built to support a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. 
+
 ## Links
-<a href="https://github.com/ColumbiaCoding/coercecommerce.git">Link to Github Repo</a>
+<a href="https://github.com/ColumbiaCoding/gabesblog.git">Link to Github Repo</a>
 
 
 ## Purpose
 
-The purpose is for management at an internet retail company to use the back end for my e-commerce website that uses the latest technologies so that a company can compete with other e-commerce companies
-
-## Video
-
-<a href="https://drive.google.com/file/d/1ulz64B71LYyMOMjB-HNPGjYDO1whG1mF/view">Link to Video</a>
+The purpose is for writer about tech that want to contribute to a CMS-style blog site, so that they can publish articles, blog posts, and thoughts and opinions
 
 
 ## Technologies
